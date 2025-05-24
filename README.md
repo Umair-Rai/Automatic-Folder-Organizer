@@ -18,4 +18,36 @@ This is a beginner-level automation project using `os`, `shutil`, and `file exte
 ---
 
 ## 📂 Folder Structure (Before → After)
+Downloads/
+├── resume.pdf
+├── image1.jpg
+├── script.py
+├── video.mp4
+└── random.xyz
+
+
+
+⬇️ Becomes:
+
+Downloads/
+├── Docs/
+│ └── resume.pdf
+├── Images/
+│ └── image1.jpg
+├── Scripts/
+│ └── script.py
+├── Videos/
+│ └── video.mp4
+└── Others/
+└── random.xyz
+
+
+---
+
+## 🚀 How to Run
+
+### 1. Clone the Repo or Download the Script
+```bash
+git clone https://github.com/Umair-Rai/Automatic-Folder-Organizer.git
+cd Automatic-Folder-Organizer
 
