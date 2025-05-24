@@ -50,4 +50,3 @@ Downloads/
 ```bash
 git clone https://github.com/Umair-Rai/Automatic-Folder-Organizer.git
 cd Automatic-Folder-Organizer
-
